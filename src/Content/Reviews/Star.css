@@ -1,0 +1,5 @@
+.star-rating span {
+    display: none;
+    color: #D26E4B;
+    display: unset;
+}
