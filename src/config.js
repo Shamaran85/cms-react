@@ -9,7 +9,8 @@ module.exports = {
 
     imageUrl: 'https://aqueous-spire-38645.herokuapp.com/',
     productsUrl: 'https://aqueous-spire-38645.herokuapp.com/products/',
-    ratingsUrl: 'https://aqueous-spire-38645.herokuapp.com/ratings/?productId=',
+    ratingsUrl: 'https://aqueous-spire-38645.herokuapp.com/ratings/',
+    loadRatingsUrl: 'https://aqueous-spire-38645.herokuapp.com/ratings/?productId=',
     orderUrl: 'https://aqueous-spire-38645.herokuapp.com/orders/',
     fillterHoodieUrl: 'https://aqueous-spire-38645.herokuapp.com/products/?category=Hoodies',
 
