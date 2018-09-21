@@ -2,7 +2,8 @@ import React, { Component } from 'react';
 
 import config from '../../config';
 
-const url = config.ratingsUrl;
+// const url = config.ratingsUrl;
+const url = config.ratingsSave;
 
 const ratingArray = [
     { type: '1', value: 1 },

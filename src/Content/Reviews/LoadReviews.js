@@ -4,7 +4,8 @@ import config from '../../config';
 import Star from './Star';
 
 // const url = config.ratingsUrl;
-const url = config.loadRatingsUrl;
+// const url = config.loadRatingsUrl;
+const url = config.ratingsLoad;
 
 class LoadReviews extends Component {
     state = {
